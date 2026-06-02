@@ -1,6 +1,5 @@
-# hospitality-reengagement-based-on-LTV
 
-# AI-Driven Hospitality Retention using CLTV 
+# AI-Driven Hospitality Retention (reengagement) using CLTV 
 
 An enterprise-grade customer lifecycle retention pipeline designed for the hospitality sector. This project combines statistical lifetime value modeling (RFM analytics) with Generative AI orchestration to rescue high-value churn risks natively using historical behavior data.
 
